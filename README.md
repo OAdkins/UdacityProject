@@ -1,16 +1,16 @@
 # UdacityProject
 3 Projects for udacity cource android programming
-
-<li> 
-<ol>BusinessApp</ol>
+<ol>
+<li> BusinessApp</li>
 
 <img src="https://github.com/OAdkins/UdacityProject/blob/master/Pictures/businessapp.png" width="300" height="500" />
 
- <ol>ScorekeeperApp </ol>
+ <li>ScorekeeperApp </li>
 
 <img src="https://github.com/OAdkins/UdacityProject/blob/master/Pictures/scorekeeperapp.png" width="300" height="500" />
 
-<ol>QuizApp</ol>
+<li>QuizApp</li>
 
 <img src="https://github.com/OAdkins/UdacityProject/blob/master/Pictures/quizapp.png" width="300" height="500" />
-</li>
+
+</ol>
