@@ -2,4 +2,4 @@
 3 Projects for udacity cource android programming
 
 1. BusinessApp
-![My image](OAdkins.github.com/UdacityProject/Pictures/businessapp.png)
+[[https://github.com/OAdkins/UdacityProject/Pictures/businessapp.png|alt=businessapp]]
