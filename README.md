@@ -3,3 +3,4 @@
 
 1. BusinessApp
 [[https://github.com/OAdkins/UdacityProject/blob/master/Pictures/businessapp.png|alt=businessapp]]
+![alt tag](https://github.com/OAdkins/UdacityProject/blob/master/Pictures/businessapp.png)
