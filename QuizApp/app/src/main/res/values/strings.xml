@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="welcome">Welcome to the QuizApp</string>
+    <string name="for_android">about Android for Android</string>
+    <string name="question_comes">Here comes the question</string>
+    <string name="question">Question:</string>
+</resources>
